@@ -5,11 +5,14 @@
 		"factoryName": {
 			"value": "avinashlearningnew"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"AzureSqlDatabase1_password": {
 			"value": ""
 		},
-		"AzureDataLakeStorage1_accountKey": {
-			"value": ""
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://learningavinash.dfs.core.windows.net/"
 		},
 		"AzureSqlDatabase1_properties_typeProperties_server": {
 			"value": "avianshlearning.database.windows.net"
@@ -19,9 +22,6 @@
 		},
 		"AzureSqlDatabase1_properties_typeProperties_userName": {
 			"value": "avinashpuli"
-		},
-		"AzureDataLakeStorage1_properties_typeProperties_url": {
-			"value": "https://learningavinash.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"value": ""
